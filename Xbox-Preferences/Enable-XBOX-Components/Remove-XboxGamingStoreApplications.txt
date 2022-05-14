@@ -1,0 +1,9 @@
+After the Installation of XBOX Application from Microsoft Store, Required Components could be installed by following "Sign In" -> "Settings" -> "General"
+
+At least components given below should be installed from there
+- Gaming Services
+- Xbox Identity Provider
+- Xbox Game Bar
+- Xbox Live in-game experience
+
+If any of components given top is not listed, it means the component is already installed. So, not listed components are not a problem.
